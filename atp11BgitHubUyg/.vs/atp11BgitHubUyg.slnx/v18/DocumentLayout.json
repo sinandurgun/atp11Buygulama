@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C26541AA-F362-4178-B16B-813A2643C062}|atp11BgitHubUyg\\atp11BgitHubUyg.csproj|c:\\users\\piktes_55\\documents\\github\\atp11buygulama\\atp11bgithubuyg\\atp11bgithubuyg\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C26541AA-F362-4178-B16B-813A2643C062}|atp11BgitHubUyg\\atp11BgitHubUyg.csproj|solutionrelative:atp11bgithubuyg\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C26541AA-F362-4178-B16B-813A2643C062}|atp11BgitHubUyg\\atp11BgitHubUyg.csproj|c:\\users\\piktes_55\\documents\\github\\atp11buygulama\\atp11bgithubuyg\\atp11bgithubuyg\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C26541AA-F362-4178-B16B-813A2643C062}|atp11BgitHubUyg\\atp11BgitHubUyg.csproj|solutionrelative:atp11bgithubuyg\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "anaForm.cs",
-              "DocumentMoniker": "C:\\Users\\Piktes_55\\Documents\\GitHub\\atp11Buygulama\\atp11BgitHubUyg\\atp11BgitHubUyg\\anaForm.cs",
-              "RelativeDocumentMoniker": "atp11BgitHubUyg\\anaForm.cs",
-              "ToolTip": "C:\\Users\\Piktes_55\\Documents\\GitHub\\atp11Buygulama\\atp11BgitHubUyg\\atp11BgitHubUyg\\anaForm.cs",
-              "RelativeToolTip": "atp11BgitHubUyg\\anaForm.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T07:46:26.367Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -42,7 +25,7 @@
               "ToolTip": "C:\\Users\\Piktes_55\\Documents\\GitHub\\atp11Buygulama\\atp11BgitHubUyg\\atp11BgitHubUyg\\anaForm.cs [Tasar\u0131m]",
               "RelativeToolTip": "atp11BgitHubUyg\\anaForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T07:37:10.34Z",
+              "WhenOpened": "2026-11-02T08:56:36.056Z",
               "EditorCaption": " [Tasar\u0131m]"
             }
           ]

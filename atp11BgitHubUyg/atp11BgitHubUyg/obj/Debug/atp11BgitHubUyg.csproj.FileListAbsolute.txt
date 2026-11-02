@@ -1,0 +1,10 @@
+C:\Users\Piktes_55\Documents\GitHub\atp11Buygulama\atp11BgitHubUyg\atp11BgitHubUyg\bin\Debug\atp11BgitHubUyg.exe.config
+C:\Users\Piktes_55\Documents\GitHub\atp11Buygulama\atp11BgitHubUyg\atp11BgitHubUyg\bin\Debug\atp11BgitHubUyg.exe
+C:\Users\Piktes_55\Documents\GitHub\atp11Buygulama\atp11BgitHubUyg\atp11BgitHubUyg\bin\Debug\atp11BgitHubUyg.pdb
+C:\Users\Piktes_55\Documents\GitHub\atp11Buygulama\atp11BgitHubUyg\atp11BgitHubUyg\obj\Debug\atp11BgitHubUyg.csproj.AssemblyReference.cache
+C:\Users\Piktes_55\Documents\GitHub\atp11Buygulama\atp11BgitHubUyg\atp11BgitHubUyg\obj\Debug\atp11BgitHubUyg.anaForm.resources
+C:\Users\Piktes_55\Documents\GitHub\atp11Buygulama\atp11BgitHubUyg\atp11BgitHubUyg\obj\Debug\atp11BgitHubUyg.Properties.Resources.resources
+C:\Users\Piktes_55\Documents\GitHub\atp11Buygulama\atp11BgitHubUyg\atp11BgitHubUyg\obj\Debug\atp11BgitHubUyg.csproj.GenerateResource.cache
+C:\Users\Piktes_55\Documents\GitHub\atp11Buygulama\atp11BgitHubUyg\atp11BgitHubUyg\obj\Debug\atp11BgitHubUyg.csproj.CoreCompileInputs.cache
+C:\Users\Piktes_55\Documents\GitHub\atp11Buygulama\atp11BgitHubUyg\atp11BgitHubUyg\obj\Debug\atp11BgitHubUyg.exe
+C:\Users\Piktes_55\Documents\GitHub\atp11Buygulama\atp11BgitHubUyg\atp11BgitHubUyg\obj\Debug\atp11BgitHubUyg.pdb
